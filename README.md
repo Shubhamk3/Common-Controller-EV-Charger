@@ -21,13 +21,18 @@ THIS IS VERSION 1 OF THE PROJECT SO MORE ADVANCED VERSION WILL BE RELEASED SOON.
 Open-source project Related to the AC/DC EV charger. 
 
 The project contains the :
-Schematic
-PCB
-BOM
-CAD
-Gerber
-Photos
-Documentations
-Wiring Diagram
+Schematic files(Altium) - [EVSE_SCH_V01.zip](https://github.com/user-attachments/files/18811699/EVSE_SCH_V01.zip)
 
-Product Specs will be updated soon
+PCB file(Altium) - [EVSE_PCB_V01.zip](https://github.com/user-attachments/files/18811701/EVSE_PCB_V01.zip)
+
+Pinout - ![R6M3 PINMAP](https://github.com/user-attachments/assets/f7321385-fa85-4e28-bdb1-4ce601d19742)
+
+Photos - ![3D_FRONT_TILT](https://github.com/user-attachments/assets/18112390-a0a0-4e17-93d5-39290c5d74f0)
+          ![3D_TOP](https://github.com/user-attachments/assets/13ad9cd8-ec1c-4a33-a5a6-714f78d5707b)
+         <img width="687" alt="top layer_SS" src="https://github.com/user-attachments/assets/960eb9d4-a8ab-4454-a921-9f8a11b5f5b5" />
+          <img width="495" alt="Top legend SS" src="https://github.com/user-attachments/assets/f07d0c6c-56d0-40ae-8db4-0ab95ed42cf1" />
+          ![3D_BACK_TILT](https://github.com/user-attachments/assets/90539273-2068-4ef2-bf72-f63ae5cd1154)
+
+Documentations - [AC_DC CHARGER_PCB_DESIGN PDF.pdf](https://github.com/user-attachments/files/18811703/AC_DC.CHARGER_PCB_DESIGN.PDF.pdf)
+
+Wiring Diagram
